@@ -1,0 +1,34 @@
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.exe
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.deps.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\p2.pdb
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\refint\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.pdb
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\p2.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\obj\Debug\net7.0\ref\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\HtmlTags.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\p2\p2\bin\Debug\net7.0\HtmlVoidTags.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\p2.exe
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\HtmlTags.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\HtmlVoidTags.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\p2.deps.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\p2.runtimeconfig.json
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\bin\Debug\net7.0\p2.pdb
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.AssemblyInfo.cs
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\refint\p2.dll
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.pdb
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\p2.genruntimeconfig.cache
+D:\Users\User\Desktop\תכנות\פרקטיקוד\‏‏p2 - עותק\p2\obj\Debug\net7.0\ref\p2.dll
